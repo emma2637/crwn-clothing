@@ -8,9 +8,14 @@
     .logo-container {
       height: 100%;
       width: 70px;
-      padding: 25px;
+      padding: 10px;
     }
   
+    .welcome{
+        display: flex;
+        justify-content: space-between;
+        padding: 24px 15px;
+    }
     .options {
       width: 50%;
       height: 100%;
@@ -22,6 +27,7 @@
         padding: 10px 15px;
         cursor: pointer;
       }
+    
     }
   }
   
